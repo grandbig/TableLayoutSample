@@ -3,9 +3,9 @@
     <string name="action_settings">Settings</string>
     <string name="top_message">
         Congratulation!!</string>
-    <string name="notification">Android</string>
-    <string name="insurance_corp">Animals</string>
-    <string name="insurance_corp_message">
+    <string name="androidText">Android</string>
+    <string name="animalText">Animals</string>
+    <string name="last_message">
         - this page is simple sample.\n- this app is simple sample application.\n- GO! GO!
     </string>
 </resources>
